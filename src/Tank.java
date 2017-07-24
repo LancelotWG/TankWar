@@ -33,6 +33,7 @@ public class Tank {
 		this.x = x;
 		this.y = y;
 		this.good = good;
+		
 	}
 
 	public Tank(int x, int y, boolean good, Dir dir, TankClient tc) {
